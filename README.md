@@ -5,7 +5,6 @@ Code Breakdown
 
 1. Importing Required Modules![IMG_20241017_132937](https://github.com/user-attachments/assets/91c63b7f-0d6b-49de-b556-cf9ac8e14bd0)
 hashlib: A library for hashing (converting data into a fixed-length hash value) to secure passwords.
-
 getpass: Allows users to enter passwords without displaying them on the screen, providing security during input.
 
 
